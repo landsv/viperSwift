@@ -50,5 +50,3 @@ test_files:
 # Template dependencies
 dependencies:
 - Swinject
-- SwinjectStoryboard
-- LightRoute
